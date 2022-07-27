@@ -21,6 +21,8 @@ I am a Frontend Web Developer who loves making experiences that sticks. My passi
 ⚡ Fun fact: I Love Playing Video Game [PES | Fifa| PSG| Barcelona]
 
 
-SKills
+My Github Stats
 
-JavaScript HTML5 React NextJs CSS3 TailwindCSS Bootstrap Redux Firebase Figma XD
+[![Anurag's github stats](https://github-readme-stats.vercel.app/apiolatunde1=olatunde1)](https://github.com/anuraghazra/github-readme-stats)
+
+
