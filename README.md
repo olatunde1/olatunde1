@@ -19,3 +19,8 @@ I am a Frontend Web Developer who loves making experiences that sticks. My passi
 💬 Ask me about my Tech Journey.
 
 ⚡ Fun fact: I Love Playing Video Game [PES | Fifa| PSG| Barcelona]
+
+
+SKills
+
+JavaScript HTML5 React NextJs CSS3 TailwindCSS Bootstrap Redux Firebase Figma XD
