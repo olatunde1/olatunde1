@@ -27,3 +27,5 @@ My Github Stats
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olatunde1&layout=compact)](https://github.com/olatunde1)
+
+<img src="https://camo.githubusercontent.com/1d229e9c0da07324b011f8044102d9d2dc3e0e2bebe5133d7dfe588704e04099/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d48696c6172792d4f6b656d657a69656d2662675f636f6c6f723d31633139313726636f6c6f723d666666666666266c696e653d30383931623226706f696e743d66666666666626617265615f636f6c6f723d31633139313726617265613d7472756526686964655f626f726465723d7472756526637573746f6d5f7469746c653d476974487562253230436f6d6d6974732532304772617068" alt="GitHub Commits Graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=olatunde1;bg_color=1c1917&amp;color=ffffff&amp;line=0891b2&amp;point=ffffff&amp;area_color=1c1917&amp;area=true&amp;hide_border=true&amp;custom_title=GitHub%20Commits%20Graph" style="max-width: 100%;">
