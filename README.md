@@ -26,3 +26,4 @@ My Github Stats
 [![Olatunde's github stats](https://github-readme-stats.vercel.app/api?username=olatunde1)](https://github.com/olatunde1)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olatunde1&layout=compact)](https://github.com/olatunde1)
