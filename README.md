@@ -23,6 +23,6 @@ I am a Frontend Web Developer who loves making experiences that sticks. My passi
 
 My Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/apiolatunde1=olatunde1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/apiolatunde1=olatunde1)](https://github.com/olatunde1/github-readme-stats)
 
 
