@@ -8,7 +8,7 @@ I am a Frontend Web Developer who loves making experiences that sticks. My passi
 
 ✉️  You can contact me at idowuolatunde32@gmail.com.
 
-🧠  I'm learning vuejs,shopify.
+🧠  I'm learning Vuejs,Typescript.
 
 🤝  I'm open to collaborating on projects
 
