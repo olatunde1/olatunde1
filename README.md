@@ -4,7 +4,7 @@ I am a Frontend Web Developer who loves making experiences that sticks. My passi
 
 🌍  I'm based in Lagos, Nigeria
 
-🖥️  See my portfolio at https://under-developement.
+🖥️  See my portfolio at https://justolatunde.netlify.app/.
 
 ✉️  You can contact me at idowuolatunde32@gmail.com.
 
